@@ -1,3 +1,3 @@
-module github.com/t-hg/url-path-encode
+module github.com/tobiashort/url-path-encode
 
 go 1.19
